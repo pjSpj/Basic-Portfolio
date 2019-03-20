@@ -1,0 +1,63 @@
+body{
+    margin: 0; 
+    background-color: #226597;
+ }
+ 
+#idphoto{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.topcontainer{
+    margin-top: 5%;
+    text-align: center;
+    position: relative;
+}
+
+.middleContainer{
+    text-align: center;
+}
+
+
+.intro{
+    position: relative;
+    left: 0%; 
+    color: #f3f9fb;
+   
+}
+
+
+
+
+
+hr{
+    border: dashed #f7b633 10px;
+    border-bottom: none;
+    margin: 0 47%;
+}
+
+.intro{   
+    text-align: center;
+}
+
+#name{
+    color: #f3f9fb;
+    font-size: 4rem;
+    font-family: 'Damion', cursive;
+}
+
+
+
+#aboutme{
+    color: #f3f9fb;
+    font-family: 'Schoolbell', cursive;
+    font-weight: bold;
+}
+
+#highlight{
+    color: #f7b633;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
